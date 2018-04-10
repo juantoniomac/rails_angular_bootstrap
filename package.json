@@ -1,0 +1,25 @@
+{
+  "name": "shine",
+  "private": true,
+  "dependencies": {
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/forms": "^4.0.0",
+    "@angular/http": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "@rails/webpacker": "3.4",
+    "bootstrap": "^4.1.0",
+    "core-js": "^2.5.5",
+    "jquery": "1.9.1",
+    "popper.js": "1.12.9",
+    "rxjs": "^5.5.8",
+    "ts-loader": "3.5.0",
+    "typescript": "^2.8.1",
+    "zone.js": "^0.8.26"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
