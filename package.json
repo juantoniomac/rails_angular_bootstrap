@@ -9,9 +9,12 @@
     "@angular/http": "^4.0.0",
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
+    "@angular/router": "^5.2.9",
     "@rails/webpacker": "3.4",
     "bootstrap": "^4.1.0",
     "core-js": "^2.5.5",
+    "html-loader": "^0.5.5",
+    "intl": "^1.2.5",
     "jquery": "1.9.1",
     "popper.js": "1.12.9",
     "rxjs": "^5.5.8",
@@ -20,6 +23,14 @@
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "jasmine": "^3.1.0",
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "karma-webpack": "^3.0.0",
+    "testdouble": "^3.7.0",
     "webpack-dev-server": "2.11.2"
   }
 }
